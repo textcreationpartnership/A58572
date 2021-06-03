@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act made by the Estates of Parliament conveened by His Maiesties speciall authority, and holden at Edenburgh in Scotland, anno 1641 declaring all Episcopall governement, the civill places and power of kirk-men, the late service booke, booke of cannons and ordination, the High Commission, together with the Articles of Perth for the observation of festivall dayes, kneeling at the communion, &amp;c. to bee utterly unlawfull and still rejected in that kirke and kingdome : whereunto is added an act appointing Parliaments to be held every three yeares.</title>
+            <author>Scotland. Convention of Estates.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58572</idno><idno type="EEBO-CITATION">13142499</idno>
+  <idno type="VID">97995</idno>
+  <idno type="EEBO-PROQUEST">2248519237</idno>
+  
+            <idno type="STC">Wing S1116</idno>
+            <idno type="STC">ESTC R14480</idno>
+            <idno type="OCLC">13142499</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58572)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97995)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 751:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act made by the Estates of Parliament conveened by His Maiesties speciall authority, and holden at Edenburgh in Scotland, anno 1641 declaring all Episcopall governement, the civill places and power of kirk-men, the late service booke, booke of cannons and ordination, the High Commission, together with the Articles of Perth for the observation of festivall dayes, kneeling at the communion, &amp;c. to bee utterly unlawfull and still rejected in that kirke and kingdome : whereunto is added an act appointing Parliaments to be held every three yeares.</title>
+                  <author>Scotland. Convention of Estates.</author>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I.B. ;</publisher>
+                  <publisher>for J.W.I.,</publisher>
+                  <pubPlace>Edenburg :</pubPlace>
+                  <pubPlace>and now printed at London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of Scotland. --  Articles of Perth.</term>
+               <term type="corporate_name">Church of Scotland. --  General Assembly.</term>
+               <term type="topical_term">Church and state --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97995:1"/>
+            <pb facs="tcp:97995:1"/>
+            <p>AN ACT MADE BY THE ESTATES OF PARLIAMENT.</p>
+            <p>Conveened by His MAIESTIES speciall Authority, and holden at <hi>Edenburgh</hi> in <hi>Scotland, Anno</hi> 1641.</p>
+            <p>Declaring all Episcopall Governement, the Civill places and Power of Kirk-men; the late Ser<g ref="char:EOLhyphen"/>vice Booke, Booke of Cannons and Ordination; the High-Commission: together with the Articles of <hi>Perth,</hi> for the observation of Festivall dayes, kneeling at the Comm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nion, &amp;c. to boe-uttetly unlawfull, and still rejected, in that Kirke and Kingdome.</p>
+            <p>Whereunto is added an Act appointing Parliaments to be held every three yeares.</p>
+            <p>
+               <hi>EDENBƲRG,</hi> Printed by <hi>I. B.</hi> and now Printed at <hi>London</hi> for J. W. I. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="Act_of_Parliament">
+            <pb facs="tcp:97995:2"/>
+            <pb n="1" facs="tcp:97995:2"/>
+            <head>ACT I. <hi>Act anent the ratification of the Acts of the Assembly.</hi>
+            </head>
+            <p>THe Estates of Parliament <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>presently conveened by his Majesties speciall authority, Ratisies, ap<g ref="char:EOLunhyphen"/>proves and perpetually confirmes the Act of the Ge<g ref="char:EOLhyphen"/>nerall Assemblie holden at <hi>Edinburgh</hi> in the moneth of August last by-past, made upon the sevententh day of the said moneth, and in the eight Session of the said assemblie, intituled, Anent the six causes of our by-gone evils; Whereof the tenour fellowes: The Kings Majestie having graciously declared, That it is His Royall will and pleasure, that all questions a<g ref="char:EOLhyphen"/>bout Religion, and matters Ecclesiasticall, be de<g ref="char:EOLhyphen"/>termined by Assemblies of the Kirke, have also by publik Proclamation indicted this Free Nationall Assembly, for setling the present distractions of rhis Kirk, and for establishing of a perfect peace, against such divisions and disorders as have been sore dis<g ref="char:EOLhyphen"/>pleasing to His Majesty, and grievous to all his good Subjects. And now His Majesties Commissioner, <hi>Iohn</hi> Earle of <hi>Traquhair,</hi> instructed and authorized with a full Commission, being present and sitting in this Assembly, now fully conveened, and orderly constitute in all the members thereof, according to
+<pb n="2" facs="tcp:97995:3"/>the Order of this Kirk: having at large declared his Majesties zeale to the reformed Religion, and His Royall care and tender affection to this Kirk, where His Majesty had both his birth and Baptisme, His great displeasure at the manifold distractions and di<g ref="char:EOLunhyphen"/>visions of this Kirk and Kingdome, and His desires to have all our wounds perfectly cured with a faire and fatherly hand; And although in the way approven by this Kirk, tryāll hath bin taken in former Assem<g ref="char:EOLhyphen"/>blies before, from the Kirk Regesters, to our full sa<g ref="char:EOLhyphen"/>tisfaction, yet the Commissioners Grace making particular inquirie from the members of the Assem<g ref="char:EOLhyphen"/>bly, solemnly conveened, concerning the reall and true causes of so many and great evills, at this time past, had so sore troubeled the peace of this Kirk and Kingdome, It was represented to His Majesties Com<g ref="char:EOLhyphen"/>missioner by this Assembly, That beside many other, the main and most materiall causes were, First the pressing of this Kirk by the Prelats, with a Servis-book or book of Common-prayer, without warrant or direction from the kirk, and conteining beside the popist frame thereof, divers popish errours cerre<g ref="char:EOLhyphen"/>monies, and the seeds of manifold and grosse su<g ref="char:EOLhyphen"/>perstitions and idolatry; with a booke of Canons, without warrant or direction from the generall as<g ref="char:EOLhyphen"/>sembly, establishing a tyrannicall power over the Kirke, in the persons of the Bishops, and over<g ref="char:EOLhyphen"/>throwing the whole Discipline and Governement of the Kirke by Assemblies, with a Booke of Consecration and Ordination, without warrāt of au<g ref="char:EOLhyphen"/>thority Civil or Ecclesiastical, appointing offices in
+<pb n="3" facs="tcp:97995:3"/>Gods house, which are not warranted by the word of God, and repugnant to the Discipline &amp; Acts of our Kirk; and with the High Commission, erected without the consent of this Kirk, subverting the ju<g ref="char:EOLhyphen"/>risdiction and ordinary Judicatories of this Kirk, and giving to persons meerly Ecclesiasticall, the power of both swords, and to persons meerly Civill, the power of the keyes and Kirk censures. A second cause was the Articles of <hi>Perth. viz,</hi> the observation of Festivall dayes, kneeling at the Communion, Confirmation, Administration of the Sacraments in private places, which were brought in by a null Assembly, and are contrary to the Confession of Faith, as it was meant and subscribed, <hi>Anno</hi> 1580. and diverse times since, and to the order and consti<g ref="char:EOLhyphen"/>tution of this Kirk. Thirdly, the change of the Go<g ref="char:EOLhyphen"/>vernment of the Kirk, from the Assemblies of the Kirk, to the persons of some Kirkmen usurping pri<g ref="char:EOLhyphen"/>ority and power over their brethren, by the way, and under the name of Episcopall Government, against the Confession of Faith 1580. against the order set downe in the Book of policy, and against the inten<g ref="char:EOLhyphen"/>tion and constitution of this Kirk from the begin<g ref="char:EOLhyphen"/>ning. Fourthly, the civill places and power of Kirk<g ref="char:EOLhyphen"/>men, their sitting in Session, Councell, and Exche<g ref="char:EOLhyphen"/>quer, their riding sitting, and voycing in Parliament, and their sitting on the Bench as Justices of peace, which, according to the Constitutions of this Kirk, are incompatible with their spirituall function, lift them up above their brethren in worldly pompe, and doe tend to the hindrance of the Ministery. Fiftly, the keeping and authorizing corrupt Assemblies at
+<pb n="4" facs="tcp:97995:4"/>
+               <hi>Linlithgow</hi> 1606, 1608, at <hi>Glasgow</hi> 1610, at <hi>Aberdene</hi> 1616. at S. <hi>Andrewes</hi> 1617, at <hi>Perth</hi> 1618, which are null and unlawful, as being called and constitue quite contrary to the order &amp; constitutions of this Kirk, received and practised ever since the Reformation of Religion, and withall labouring to introduce Nova<g ref="char:EOLhyphen"/>tions into this Kirk, against the Order and Religion established. A sixt cause is, the want of lawfull and free generall Assemblies, rightly constitute of Past<g ref="char:EOLhyphen"/>ours, Doctours, and Elders, yeerly or oftner <hi>pro re nata,</hi> according to the Liberty of this Kirk, ex<g ref="char:EOLhyphen"/>pressed in the Book of policy, and acknowledged in the Act of Parliament 1592, after which, the whole Assembly, in one heart and voice, did declare, that these and such other, proceeding from the neglect and breach of the Nationall Covenant of this Kirk and Kingdome, made <hi>Ann.</hi> 1580. have beene indeed the true and maine causes of all our evils and distra<g ref="char:EOLhyphen"/>ctions, and therefore ordaine, according to the Constitutions of the Generall Assemblies of this Kirk, and upon the grounds respective above speci<g ref="char:EOLhyphen"/>fied, that the foresaid Service-Booke, Books of Ca<g ref="char:EOLhyphen"/>nons and Ordination, and the High Commission, be still rejected, that the Articles of <hi>Perth</hi> be no more practised; that Episcopall government, the civill places and power of Kirkmen, be holden still as un<g ref="char:EOLhyphen"/>lawfull in this Kirk; that the above-named pretended Assemblies at <hi>Linlithgow</hi> 1606, 1608, at <hi>Glasgow</hi> 1610 at <hi>Aberdene</hi> 1616, at S. <hi>Andrewes</hi> 1617, at <hi>Perth</hi> 1618, be hereafter accounted as null, and of none effect; and that for preservation of Religion, and preventing all such evils in time comming, Generall
+<pb n="5" facs="tcp:97995:4"/>Assemblies rightly constitute, as the proper &amp; com<g ref="char:EOLhyphen"/>petent Judge of all matters Ecclesiasticall, hereafter be keeped yeerely, and oftner <hi>pro re nata,</hi> as occasion and necessity shall require (The necessity of these occasionall Assemblies being first remonstrate to his Majesty by humble supplication) As also that Kirk Sessions, Presbyteries, and Synodall Assem<g ref="char:EOLhyphen"/>blies be constitute and observed according to the order of this Kirk; which act, with all and sundry the particular heads, clauses, and articles therein con<g ref="char:EOLhyphen"/>tained, the Estates now conveened by his Majesties indiction, warrant and authority foresaid, ratifies, approves and confirmes in all points, in manner as the same proports; and gives thereunto the strength of a Law, and Act of Parliament, and ordaines exe<g ref="char:EOLhyphen"/>cution to passe thereupon as effeirs; and rescindes, Casses, and annuls all acts and decreets of Parlia<g ref="char:EOLhyphen"/>ment and Counsell formerly made, contrair and in prejudice of the said act, or any part thereof.</p>
+         </div>
+         <div n="2" type="act">
+            <head>ACT II. <hi>Statuarie appointing Parliaments to be holden once every three yeare.</hi>
+            </head>
+            <p>THe Estates of Parliament presently conveened by his Majesties speciall Authority; Conside<g ref="char:EOLhyphen"/>ring that by reason of his Majesties ordinary resi<g ref="char:EOLhyphen"/>dence forth of this his ancient &amp; native Kingdome, the grievances and complaints of his good Subjects, cannot have so free and easie accesse to his Majesties cares, as the same may be conveniently represented to his Majesties Commissioners, and the Estates of
+<pb n="6" facs="tcp:97995:5"/>Parliament from time to time, and how accessary it is that frequent Parliaments be keeped within this Kingdome, for preservation of the purity of the true Religion now by Gods providence established with<g ref="char:EOLhyphen"/>in the same, and for the equall and impartiall admi<g ref="char:EOLhyphen"/>nistration of Justice to all his Majesties Subjects, and maintaining of peace and concord amongst them, by applying of the true and lawfull remedies to their grievances and complaints, and timous sup<g ref="char:EOLhyphen"/>pressing of all abuses and corruptions, which other<g ref="char:EOLhyphen"/>wayes from small beginnings will grow to great dis<g ref="char:EOLhyphen"/>orders, (which frequent Parliaments was continual<g ref="char:EOLhyphen"/>ly observed in this Kingdome before his Majesties Father, of happy memory, went into <hi>England;</hi>) have statute and ordained that every three yeare once at least a full and free Parliament shall be holden (and oftner as his Majesty shall be pleased to call them) within the bounds of this Kingdome in the most commodious place and convenient time to bee thought upon, appointed and affixed by his Majesty or his Commissioner for the time, and Estates of Parliaments, before the ending and closing of every Parliament, and to be the last Act thereof. And the whole Estates wisheth that as it was their happinesse to have his Majesties presence at all Parliaments, while the King had his residence in this Kingdome, so that his Majesty would be pleased to be present at each Parliament, and they humbly supplycat his Majesty for that effect.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:97995:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
